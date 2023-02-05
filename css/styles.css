@@ -65,13 +65,17 @@ p {
   text-align: center;
   margin-bottom: 10px;
 }
-
+.middle-em-content {
+  width: 40%;
+  margin: auto;
+  text-align: left;
+}
 .link-steam {
   text-decoration: none;
   color: rgb(255, 255, 255);
 }
 #footer {
   padding-top: 0px;
-  margin-left: 10px;
   margin-bottom: 0px;
+  background-color: #212529;
 }
